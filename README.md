@@ -33,4 +33,16 @@ Dashboard zawiera również **filtry**:
 - Podstawowa obróbka danych w Power Query
 
 ## 📂 Struktura repozytorium
+├── sales_dashboard.pbix # Plik Power BI
+├── data/
+│ └── sales_data.xlsx # Dane źródłowe (Excel)
+├── img/
+│ └── sales_dashboard.png # Zrzut ekranu dashboardu
+└── README.md
+
+
+## ✨ Autor
+
+Projekt wykonany w ramach kursu Power BI. Repozytorium opublikowane w celach edukacyjnych i jako część portfolio.
+
 
