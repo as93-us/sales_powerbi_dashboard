@@ -24,7 +24,7 @@ Dashboard zawiera również **filtry**:
 
 ## 🖼️ Podgląd
 
-![Sales Dashboard](img/sales_dashboard.png)
+![Sales_Dashboard](img/sales_dashboard.png)
 
 ## 🛠️ Narzędzia użyte w projekcie
 
